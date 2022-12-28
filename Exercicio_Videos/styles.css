@@ -1,0 +1,35 @@
+body{background-color: rgb(207, 221, 216);}
+
+h1{text-align: center;}
+
+img{
+    width: 350px;
+    height: 250px;
+    position:absolute;
+    
+}
+
+#img1{
+    top: 50%;
+    left: 50%;
+    transform: translate(-100%,-100%);
+}
+#img2{
+    top: 50%;
+    left: 50%;
+    transform: translate(0,-100%);
+}
+
+#img3
+{
+    top:50%;
+    left: 50%;
+    transform: translate(-100%);
+}
+#img4
+{
+    top: 50%;
+    left: 50%;
+    transform: translate();
+}
+
