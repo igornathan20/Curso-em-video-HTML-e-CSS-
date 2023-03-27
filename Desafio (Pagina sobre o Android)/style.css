@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin: 0%;
+      
+}
+
+
+
+:root{
+    --cor1:#065143;
+    --cor2:#33CA7F;
+    --cor3:#998650;
+    --cor4:#E0BE36;
+    --cor5:#ACEDFF;
+}
+
+header{
+    text-align: center;
+    background-image: linear-gradient(5deg, var(--cor2), var(--cor1) );
+    color: white;
+    
+}
+
+header h1{
+    padding: 30px;
+    margin: auto;
+}
+
+header p{
+    padding-bottom: 10px;
+}
+
+header nav{
+    text-align: justify;
+}
+article{
+    background-color: white;
+    max-width: 835px;
+   
+}
+
+main{
+    background-color:var(--cor5);
+    max-width: 835px;
+    margin: auto ;
+    
+    
+}
+
+h2,h3{
+    color:var(--cor1);
+}
